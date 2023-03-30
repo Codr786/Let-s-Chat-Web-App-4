@@ -1,0 +1,25 @@
+#logout
+{
+    font-size: 20px; 
+    float:right;
+}
+
+#output
+{
+    background-color: #AD8E70;
+    padding: 10px; width:80%;border-radius: 15px;
+}
+
+.input_div_message_page
+{
+    background-color: #C8B6A6;
+    border-radius: 30px;
+}
+
+body{
+    background-image: url("Screenshot\ 2023-03-14\ at\ 8.48.51\ PM.png");
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#msg{
+    width: 20;
+}
